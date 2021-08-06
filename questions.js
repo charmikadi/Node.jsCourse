@@ -1,6 +1,6 @@
 const questions = [
     "What is your name?",
-    "What do you rather be doing?", 
+    "What would you rather be doing?", 
     "What is your preferred programming language?"
 ]; 
 
